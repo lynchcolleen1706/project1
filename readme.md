@@ -1,0 +1,3 @@
+Project 1, Colleen Lynch, 10/20/26
+
+My website is designed to have a place to show my pottery work online and some other info about my work. Pottery is a big hobby of mine, so I'm super happy to have a place to organize the photos. The website includes a gallery page, where I have pictures of some work and a caption for each image, a page where I explain some inspiration and my personal style, and a home page with an about me section and my favorite throwing playlist.
